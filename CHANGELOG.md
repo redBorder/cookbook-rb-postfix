@@ -1,5 +1,9 @@
 cookbook-rb-postfix CHANGELOG
-=============================
+===============
+
+## 0.0.2
+
+
 
 This file is used to list changes made in each version of the ntp cookbook.
 
