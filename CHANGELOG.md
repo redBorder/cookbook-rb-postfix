@@ -1,9 +1,11 @@
 cookbook-rb-postfix CHANGELOG
-=============================
+===============
 
-This file is used to list changes made in each version of the ntp cookbook.
+## 0.0.2
+- [David Vanhoucke dvanhoucke@redborder.com]
+  - Empty file and code refactor to pass the linters
 
-0.0.1
+## 0.0.1
 -----
 - [David Vanhoucke dvanhoucke@redborder.com]
   - COMMIT_REF Initial release of cookbook rb-postfix 
