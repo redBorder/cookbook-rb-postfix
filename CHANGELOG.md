@@ -1,6 +1,11 @@
 cookbook-rb-postfix CHANGELOG
 ===============
 
+## 0.0.3
+
+  - Miguel Negrón
+    - [0c276a7] Add pre and postun to clean the cookbook
+
 ## 0.0.2
 - [David Vanhoucke dvanhoucke@redborder.com]
   - Empty file and code refactor to pass the linters
