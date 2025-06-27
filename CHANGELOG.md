@@ -1,6 +1,11 @@
 cookbook-rb-postfix CHANGELOG
 ===============
 
+## 0.0.4
+
+  - nilsver
+    - [0abc222] remove flush cache
+
 ## 0.0.3
 
   - Miguel Negrón
