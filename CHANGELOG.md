@@ -1,6 +1,11 @@
 cookbook-rb-postfix CHANGELOG
 ===============
 
+## 0.0.5
+
+  - jnavarrorb
+    - [52f1e23] Remove executable permissions on non-executable files
+
 ## 0.0.4
 
   - nilsver
