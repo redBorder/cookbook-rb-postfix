@@ -1,6 +1,11 @@
 cookbook-rb-postfix CHANGELOG
 ===============
 
+## 0.0.6
+
+  - manegron
+    - [5ba026e] Upload cookbook only if opscode-erchef is active
+
 ## 0.0.5
 
   - jnavarrorb
